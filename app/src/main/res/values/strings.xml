@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin2RMK</string>
+    <string name="submit">Submit</string>
+    <string name="random">Random</string>
+    <string name="toast_url">Введите URL</string>
+    <string name="toast_wrong_url">Не правильно введен URL</string>
+</resources>
